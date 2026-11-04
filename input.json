@@ -1,0 +1,6 @@
+{
+  "template": "/v/{id}",
+  "values": {
+    "id": "a/b"
+  }
+}
